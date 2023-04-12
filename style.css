@@ -1,0 +1,13 @@
+body {
+    background: greenyellow linear-gradient(30deg,black, dodgerblue, black) fixed;
+
+}
+#comment-box, #post {
+    size:20;
+    border:none;
+    border-radius: 30px;
+}
+#post:hover{
+    background-color: #ff00ff;
+    
+}
